@@ -42,6 +42,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harish-buddha/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/harish-buddha/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/harish-buddha/leetcode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harish-buddha/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/harish-buddha/leetcode/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -102,4 +104,5 @@
 | [0058-length-of-last-word](https://github.com/harish-buddha/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/harish-buddha/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harish-buddha/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/harish-buddha/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
