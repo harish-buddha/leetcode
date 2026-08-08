@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harish-buddha/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/harish-buddha/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/harish-buddha/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/harish-buddha/leetcode/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/harish-buddha/leetcode/tree/master/0290-word-pattern) |
@@ -60,6 +61,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/harish-buddha/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/harish-buddha/leetcode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harish-buddha/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/harish-buddha/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/harish-buddha/leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/harish-buddha/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/harish-buddha/leetcode/tree/master/0058-length-of-last-word) |
