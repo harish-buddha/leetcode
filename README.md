@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/harish-buddha/leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/harish-buddha/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/harish-buddha/leetcode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -134,4 +135,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harish-buddha/leetcode/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/harish-buddha/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
