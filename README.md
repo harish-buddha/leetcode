@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/harish-buddha/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/harish-buddha/leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/harish-buddha/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harish-buddha/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harish-buddha/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/harish-buddha/leetcode/tree/master/0042-trapping-rain-water) |
@@ -25,6 +26,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/harish-buddha/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harish-buddha/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harish-buddha/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/harish-buddha/leetcode/tree/master/0042-trapping-rain-water) |
@@ -38,6 +40,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/harish-buddha/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/harish-buddha/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/harish-buddha/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harish-buddha/leetcode/tree/master/0169-majority-element) |
