@@ -73,6 +73,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harish-buddha/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/harish-buddha/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/harish-buddha/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/harish-buddha/leetcode/tree/master/0189-rotate-array) |
@@ -143,6 +144,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harish-buddha/leetcode/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/harish-buddha/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/harish-buddha/leetcode/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
@@ -152,6 +154,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harish-buddha/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/harish-buddha/leetcode/tree/master/0050-powx-n) |
 ## Bracket Sequences
 |  |
