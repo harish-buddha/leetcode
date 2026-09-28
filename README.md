@@ -26,6 +26,7 @@
 | [0219-contains-duplicate-ii](https://github.com/harish-buddha/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/harish-buddha/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/harish-buddha/leetcode/tree/master/0274-h-index) |
+| [0502-ipo](https://github.com/harish-buddha/leetcode/tree/master/0502-ipo) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0169-majority-element](https://github.com/harish-buddha/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harish-buddha/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/harish-buddha/leetcode/tree/master/0274-h-index) |
+| [0502-ipo](https://github.com/harish-buddha/leetcode/tree/master/0502-ipo) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0055-jump-game](https://github.com/harish-buddha/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harish-buddha/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/harish-buddha/leetcode/tree/master/0135-candy) |
+| [0502-ipo](https://github.com/harish-buddha/leetcode/tree/master/0502-ipo) |
 ## Counting Sort
 |  |
 | ------- |
@@ -191,6 +194,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harish-buddha/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/harish-buddha/leetcode/tree/master/0502-ipo) |
 ## Quickselect
 |  |
 | ------- |
