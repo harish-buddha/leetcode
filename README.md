@@ -46,6 +46,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/harish-buddha/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harish-buddha/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/harish-buddha/leetcode/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/harish-buddha/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/harish-buddha/leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
@@ -56,6 +57,7 @@
 | [0169-majority-element](https://github.com/harish-buddha/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harish-buddha/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/harish-buddha/leetcode/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/harish-buddha/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/harish-buddha/leetcode/tree/master/0502-ipo) |
 ## Hash Table
 |  |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/harish-buddha/leetcode/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/harish-buddha/leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -195,10 +198,15 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harish-buddha/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/harish-buddha/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/harish-buddha/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/harish-buddha/leetcode/tree/master/0502-ipo) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harish-buddha/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/harish-buddha/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
