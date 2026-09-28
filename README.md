@@ -26,6 +26,7 @@
 | [0219-contains-duplicate-ii](https://github.com/harish-buddha/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/harish-buddha/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/harish-buddha/leetcode/tree/master/0274-h-index) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/harish-buddha/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/harish-buddha/leetcode/tree/master/0502-ipo) |
 ## Two Pointers
 |  |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harish-buddha/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/harish-buddha/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/harish-buddha/leetcode/tree/master/0502-ipo) |
 ## Quickselect
 |  |
