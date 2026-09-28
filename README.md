@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/harish-buddha/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/harish-buddha/leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/harish-buddha/leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/harish-buddha/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/harish-buddha/leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/harish-buddha/leetcode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harish-buddha/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -237,6 +238,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/harish-buddha/leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/harish-buddha/leetcode/tree/master/0068-text-justification) |
 ## String Matching
 |  |
@@ -262,4 +264,5 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/harish-buddha/leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/harish-buddha/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
