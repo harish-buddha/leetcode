@@ -29,6 +29,7 @@
 | [0238-product-of-array-except-self](https://github.com/harish-buddha/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/harish-buddha/leetcode/tree/master/0274-h-index) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/harish-buddha/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0380-insert-delete-getrandom-o1](https://github.com/harish-buddha/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0502-ipo](https://github.com/harish-buddha/leetcode/tree/master/0502-ipo) |
 ## Two Pointers
 |  |
@@ -79,6 +80,7 @@
 | [0205-isomorphic-strings](https://github.com/harish-buddha/leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/harish-buddha/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/harish-buddha/leetcode/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/harish-buddha/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/harish-buddha/leetcode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
@@ -97,6 +99,7 @@
 | [0013-roman-to-integer](https://github.com/harish-buddha/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/harish-buddha/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/harish-buddha/leetcode/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/harish-buddha/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -204,6 +207,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/harish-buddha/leetcode/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/harish-buddha/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/harish-buddha/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -243,4 +247,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harish-buddha/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/harish-buddha/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
