@@ -57,6 +57,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/harish-buddha/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harish-buddha/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/harish-buddha/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/harish-buddha/leetcode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/harish-buddha/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/harish-buddha/leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
@@ -87,6 +88,7 @@
 | [0141-linked-list-cycle](https://github.com/harish-buddha/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/harish-buddha/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/harish-buddha/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/harish-buddha/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/harish-buddha/leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/harish-buddha/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/harish-buddha/leetcode/tree/master/0242-valid-anagram) |
@@ -112,6 +114,7 @@
 | [0048-rotate-image](https://github.com/harish-buddha/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/harish-buddha/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/harish-buddha/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/harish-buddha/leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/harish-buddha/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
@@ -207,6 +210,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harish-buddha/leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/harish-buddha/leetcode/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
