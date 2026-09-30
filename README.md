@@ -154,6 +154,7 @@
 | [0020-valid-parentheses](https://github.com/harish-buddha/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harish-buddha/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/harish-buddha/leetcode/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/harish-buddha/leetcode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/harish-buddha/leetcode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/harish-buddha/leetcode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/harish-buddha/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/harish-buddha/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Doubly-Linked List
