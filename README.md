@@ -40,6 +40,7 @@
 | [0289-game-of-life](https://github.com/harish-buddha/leetcode/tree/master/0289-game-of-life) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/harish-buddha/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/harish-buddha/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harish-buddha/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/harish-buddha/leetcode/tree/master/0502-ipo) |
 ## Two Pointers
 |  |
@@ -76,6 +77,7 @@
 | [0242-valid-anagram](https://github.com/harish-buddha/leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/harish-buddha/leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/harish-buddha/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harish-buddha/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/harish-buddha/leetcode/tree/master/0502-ipo) |
 ## Hash Table
 |  |
@@ -140,6 +142,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harish-buddha/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/harish-buddha/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/harish-buddha/leetcode/tree/master/0135-candy) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harish-buddha/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/harish-buddha/leetcode/tree/master/0502-ipo) |
 ## Counting Sort
 |  |
