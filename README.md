@@ -113,6 +113,7 @@
 | [0290-word-pattern](https://github.com/harish-buddha/leetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/harish-buddha/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/harish-buddha/leetcode/tree/master/0383-ransom-note) |
+| [0433-minimum-genetic-mutation](https://github.com/harish-buddha/leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 | [0383-ransom-note](https://github.com/harish-buddha/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/harish-buddha/leetcode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/harish-buddha/leetcode/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/harish-buddha/leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Trie
 |  |
 | ------- |
@@ -400,6 +402,7 @@
 | [0210-course-schedule-ii](https://github.com/harish-buddha/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/harish-buddha/leetcode/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/harish-buddha/leetcode/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/harish-buddha/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/harish-buddha/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harish-buddha/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0909-snakes-and-ladders](https://github.com/harish-buddha/leetcode/tree/master/0909-snakes-and-ladders) |
@@ -482,4 +485,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/harish-buddha/leetcode/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/harish-buddha/leetcode/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
