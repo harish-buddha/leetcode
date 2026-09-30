@@ -135,6 +135,7 @@
 | [0013-roman-to-integer](https://github.com/harish-buddha/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/harish-buddha/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/harish-buddha/leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/harish-buddha/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harish-buddha/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/harish-buddha/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harish-buddha/leetcode/tree/master/0202-happy-number) |
@@ -146,6 +147,7 @@
 | [0042-trapping-rain-water](https://github.com/harish-buddha/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/harish-buddha/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/harish-buddha/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/harish-buddha/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harish-buddha/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harish-buddha/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harish-buddha/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -493,4 +495,8 @@
 | ------- |
 | [0127-word-ladder](https://github.com/harish-buddha/leetcode/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/harish-buddha/leetcode/tree/master/0433-minimum-genetic-mutation) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/harish-buddha/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
