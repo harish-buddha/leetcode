@@ -178,6 +178,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harish-buddha/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/harish-buddha/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/harish-buddha/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -335,6 +336,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/harish-buddha/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harish-buddha/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/harish-buddha/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/harish-buddha/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/harish-buddha/leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -371,6 +373,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/harish-buddha/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harish-buddha/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/harish-buddha/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/harish-buddha/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/harish-buddha/leetcode/tree/master/0226-invert-binary-tree) |
 ## DP on Trees
 |  |
@@ -384,4 +387,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/harish-buddha/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/harish-buddha/leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
