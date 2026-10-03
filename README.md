@@ -62,6 +62,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/harish-buddha/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/harish-buddha/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/harish-buddha/leetcode/tree/master/0399-evaluate-division) |
+| [0427-construct-quad-tree](https://github.com/harish-buddha/leetcode/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harish-buddha/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/harish-buddha/leetcode/tree/master/0502-ipo) |
 | [0909-snakes-and-ladders](https://github.com/harish-buddha/leetcode/tree/master/0909-snakes-and-ladders) |
@@ -148,6 +149,7 @@
 | [0148-sort-list](https://github.com/harish-buddha/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/harish-buddha/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harish-buddha/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0427-construct-quad-tree](https://github.com/harish-buddha/leetcode/tree/master/0427-construct-quad-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harish-buddha/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
@@ -395,6 +397,7 @@
 | [0212-word-search-ii](https://github.com/harish-buddha/leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/harish-buddha/leetcode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/harish-buddha/leetcode/tree/master/0289-game-of-life) |
+| [0427-construct-quad-tree](https://github.com/harish-buddha/leetcode/tree/master/0427-construct-quad-tree) |
 | [0909-snakes-and-ladders](https://github.com/harish-buddha/leetcode/tree/master/0909-snakes-and-ladders) |
 ## Union-Find
 |  |
@@ -430,6 +433,7 @@
 | [0226-invert-binary-tree](https://github.com/harish-buddha/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harish-buddha/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harish-buddha/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/harish-buddha/leetcode/tree/master/0427-construct-quad-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/harish-buddha/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harish-buddha/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
