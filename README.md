@@ -26,6 +26,7 @@
 | [0064-minimum-path-sum](https://github.com/harish-buddha/leetcode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/harish-buddha/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/harish-buddha/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/harish-buddha/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harish-buddha/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/harish-buddha/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harish-buddha/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -259,6 +260,7 @@
 | [0071-simplify-path](https://github.com/harish-buddha/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/harish-buddha/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/harish-buddha/leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/harish-buddha/leetcode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/harish-buddha/leetcode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/harish-buddha/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/harish-buddha/leetcode/tree/master/0127-word-ladder) |
@@ -381,6 +383,7 @@
 | [0063-unique-paths-ii](https://github.com/harish-buddha/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harish-buddha/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/harish-buddha/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/harish-buddha/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/harish-buddha/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harish-buddha/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/harish-buddha/leetcode/tree/master/0212-word-search-ii) |
@@ -425,6 +428,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/harish-buddha/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/harish-buddha/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/harish-buddha/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/harish-buddha/leetcode/tree/master/0101-symmetric-tree) |
@@ -589,6 +593,7 @@
 | [0046-permutations](https://github.com/harish-buddha/leetcode/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/harish-buddha/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/harish-buddha/leetcode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/harish-buddha/leetcode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/harish-buddha/leetcode/tree/master/0212-word-search-ii) |
 ## Queue
 |  |
