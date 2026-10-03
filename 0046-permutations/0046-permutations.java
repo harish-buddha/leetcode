@@ -1,0 +1,44 @@
+class Solution {
+
+    public List<List<Integer>> permute(int[] nums) {
+        List<List<Integer>> result = new ArrayList<>();
+        boolean[] used = new boolean[nums.length];
+
+        backtrack(nums, used, new ArrayList<>(), result);
+
+        return result;
+    }
+
+    private void backtrack(
+            int[] nums,
+            boolean[] used,
+            List<Integer> current,
+            List<List<Integer>> result) {
+
+        // A complete permutation has been constructed.
+        if (current.size() == nums.length) {
+            result.add(new ArrayList<>(current));
+            return;
+        }
+
+        // Try every element as the next choice.
+        for (int i = 0; i < nums.length; i++) {
+
+            // Skip elements already present in this permutation.
+            if (used[i]) {
+                continue;
+            }
+
+            // Choose
+            used[i] = true;
+            current.add(nums[i]);
+
+            // Explore
+            backtrack(nums, used, current, result);
+
+            // Undo
+            current.remove(current.size() - 1);
+            used[i] = false;
+        }
+    }
+}
