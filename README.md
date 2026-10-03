@@ -44,6 +44,7 @@
 | [0198-house-robber](https://github.com/harish-buddha/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/harish-buddha/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/harish-buddha/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/harish-buddha/leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harish-buddha/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/harish-buddha/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/harish-buddha/leetcode/tree/master/0221-maximal-square) |
@@ -254,6 +255,7 @@
 | [0205-isomorphic-strings](https://github.com/harish-buddha/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/harish-buddha/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/harish-buddha/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/harish-buddha/leetcode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/harish-buddha/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/harish-buddha/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/harish-buddha/leetcode/tree/master/0290-word-pattern) |
@@ -268,6 +270,7 @@
 | [0139-word-break](https://github.com/harish-buddha/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/harish-buddha/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/harish-buddha/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/harish-buddha/leetcode/tree/master/0212-word-search-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -367,6 +370,7 @@
 | [0073-set-matrix-zeroes](https://github.com/harish-buddha/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/harish-buddha/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harish-buddha/leetcode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/harish-buddha/leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/harish-buddha/leetcode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/harish-buddha/leetcode/tree/master/0289-game-of-life) |
 | [0909-snakes-and-ladders](https://github.com/harish-buddha/leetcode/tree/master/0909-snakes-and-ladders) |
@@ -563,4 +567,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harish-buddha/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/harish-buddha/leetcode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
