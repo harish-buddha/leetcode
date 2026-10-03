@@ -157,6 +157,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harish-buddha/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/harish-buddha/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/harish-buddha/leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/harish-buddha/leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harish-buddha/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/harish-buddha/leetcode/tree/master/0427-construct-quad-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harish-buddha/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -553,6 +554,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/harish-buddha/leetcode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/harish-buddha/leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/harish-buddha/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Lifting
 |  |
