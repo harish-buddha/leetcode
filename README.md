@@ -44,6 +44,7 @@
 | [0135-candy](https://github.com/harish-buddha/leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/harish-buddha/leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harish-buddha/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/harish-buddha/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harish-buddha/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/harish-buddha/leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/harish-buddha/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -235,6 +236,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/harish-buddha/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/harish-buddha/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/harish-buddha/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harish-buddha/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/harish-buddha/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/harish-buddha/leetcode/tree/master/0222-count-complete-tree-nodes) |
